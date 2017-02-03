@@ -14,6 +14,7 @@ git clone https://github.com/ggdio/snitch.git
 
 ### Libraries and Utilities
 * JDK 8
+* Hazelcast
 * Spring Boot
 * Jersey
 * Undertow
